@@ -1,0 +1,9 @@
+&star_job
+
+/ ! end of star job
+
+&controls
+
+  initial_mass = 15 
+
+/ ! end of controls
